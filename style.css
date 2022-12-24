@@ -1,0 +1,18 @@
+body {
+    background-color:#696969;
+}h1 {
+    color: #FFF5EE;
+}
+main {
+    color: #FFF5EE;
+}
+nav {
+    color: #FFF5EE;
+}
+ body {
+    background: url(585068.jpg) no-repeat;
+    -moz-background-size: 100%; /* Firefox 3.6+ /
+    -webkit-background-size: 100%; / Safari 3.1+ и Chrome 4.0+ /
+    -o-background-size: 100%; / Opera 9.6+ /
+    background-size: 100%; / Современные браузеры */
+   }
